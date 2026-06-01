@@ -1,4700 +1,4715 @@
-[
-  {
-    "username": "DefaultTrust",
-    "uid": null,
-    "depth": 0,
-    "strength": 0
-  },
-  {
-    "username": "theymos",
-    "uid": 35,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "gmaxwell",
-    "uid": 11425,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Vod",
-    "uid": 30747,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "vapourminer",
-    "uid": 33156,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "mprep",
-    "uid": 51173,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Foxpup",
-    "uid": 55384,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "philipma1957",
-    "uid": 64507,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Cyrus",
-    "uid": 78147,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Welsh",
-    "uid": 84521,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "ibminer",
-    "uid": 84866,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "d5000",
-    "uid": 85033,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "joker_josue",
-    "uid": 97582,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Pmalek",
-    "uid": 112493,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Mitchell",
-    "uid": 113670,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "albon",
-    "uid": 123824,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "wwzsocki",
-    "uid": 131333,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "jeremypwr",
-    "uid": 137185,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "gbianchi",
-    "uid": 140582,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "EFS",
-    "uid": 140584,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "stompix",
-    "uid": 164749,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "hilariousandco",
-    "uid": 164822,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "buckrogers",
-    "uid": 189967,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Buchi-88",
-    "uid": 204821,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Lesbian Cow",
-    "uid": 206143,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "willi9974",
-    "uid": 216582,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "JayJuanGee",
-    "uid": 252510,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "NeuroticFish",
-    "uid": 257071,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "achow101",
-    "uid": 290195,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "DaveF",
-    "uid": 300014,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "examplens",
-    "uid": 314792,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "nutildah",
-    "uid": 317618,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "irfan_pak10",
-    "uid": 350580,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "BitcoinPenny",
-    "uid": 352429,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "yahoo62278",
-    "uid": 355846,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "bitbollo",
-    "uid": 364070,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "zazarb",
-    "uid": 369212,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "mocacinno",
-    "uid": 405464,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Real-Duke",
-    "uid": 405482,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "klarki",
-    "uid": 407174,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "LoyceV",
-    "uid": 459836,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "The Sceptical Chymist",
-    "uid": 487418,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "SFR10",
-    "uid": 521899,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "holydarkness",
-    "uid": 754818,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Lafu",
-    "uid": 805820,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "tweetious",
-    "uid": 830967,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "AakZaki",
-    "uid": 839568,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "giammangiato",
-    "uid": 889300,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "buwaytress",
-    "uid": 901859,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Ale88",
-    "uid": 932931,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "hosemary",
-    "uid": 995810,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "krogothmanhattan",
-    "uid": 1000199,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "JollyGood",
-    "uid": 1016855,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "CryptopreneurBrainboss",
-    "uid": 1052091,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "hugeblack",
-    "uid": 1059082,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "El duderino_",
-    "uid": 1067333,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "KTChampions",
-    "uid": 1097370,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Trofo",
-    "uid": 1099980,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "icopress",
-    "uid": 1137579,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "JeromeTash",
-    "uid": 1190631,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "logfiles",
-    "uid": 1247226,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Bitcoin_Arena",
-    "uid": 1269497,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "GazetaBitcoin",
-    "uid": 1285797,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "tvplus006",
-    "uid": 1311641,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "mole0815",
-    "uid": 1424178,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "DdmrDdmr",
-    "uid": 1582324,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "shahzadafzal",
-    "uid": 1634314,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Lakai01",
-    "uid": 1724800,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Husna QA",
-    "uid": 1827294,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "fillippone",
-    "uid": 1852120,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "cryptofrka",
-    "uid": 1862043,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "abhiseshakana",
-    "uid": 1878246,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "The Cryptovator",
-    "uid": 1980983,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "lovesmayfamilis",
-    "uid": 1982152,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "DireWolfM14",
-    "uid": 2003859,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "1miau",
-    "uid": 2143453,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Little Mouse",
-    "uid": 2344286,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "YOSHIE",
-    "uid": 2363935,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "inspace",
-    "uid": 2477002,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "jokers10",
-    "uid": 2497429,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Awaklara",
-    "uid": 2519096,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "efialtis",
-    "uid": 2597426,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "geophphreigh",
-    "uid": 2652924,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "zasad@",
-    "uid": 2654005,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Rikafip",
-    "uid": 2658890,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Etranger",
-    "uid": 2709122,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Stalker22",
-    "uid": 2739454,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "bullrun2024bro",
-    "uid": 2744352,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "BlackHatCoiner",
-    "uid": 2775483,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Charles-Tim",
-    "uid": 2776678,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Lillominato89",
-    "uid": 2796662,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "Free Market Capitalist",
-    "uid": 2836461,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "YodasRedRocket",
-    "uid": 3442614,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "memehunter",
-    "uid": 3629575,
-    "depth": 1,
-    "strength": 1
-  },
-  {
-    "username": "dooglus",
-    "uid": 3420,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "gmaxwell",
-    "uid": 11425,
-    "depth": 2,
-    "strength": 17
-  },
-  {
-    "username": "malevolent",
-    "uid": 23092,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Vod",
-    "uid": 30747,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "SaltySpitoon",
-    "uid": 38894,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Cyrus",
-    "uid": 78147,
-    "depth": 2,
-    "strength": 21
-  },
-  {
-    "username": "Welsh",
-    "uid": 84521,
-    "depth": 2,
-    "strength": 22
-  },
-  {
-    "username": "TMAN",
-    "uid": 98986,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Adriano",
-    "uid": 112568,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "albon",
-    "uid": 123824,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "EFS",
-    "uid": 140584,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "dbshck",
-    "uid": 153634,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "hilariousandco",
-    "uid": 164822,
-    "depth": 2,
-    "strength": 30
-  },
-  {
-    "username": "franckuestein",
-    "uid": 225121,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "examplens",
-    "uid": 314792,
-    "depth": 2,
-    "strength": 24
-  },
-  {
-    "username": "nutildah",
-    "uid": 317618,
-    "depth": 2,
-    "strength": 30
-  },
-  {
-    "username": "sapta",
-    "uid": 347141,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "ABCbits",
-    "uid": 359716,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "OmegaStarScream",
-    "uid": 375981,
-    "depth": 2,
-    "strength": 12
-  },
-  {
-    "username": "xandry",
-    "uid": 382413,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "Mr. Big",
-    "uid": 553678,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "holydarkness",
-    "uid": 754818,
-    "depth": 2,
-    "strength": 12
-  },
-  {
-    "username": "Barcode_",
-    "uid": 779106,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "TheUltraElite",
-    "uid": 878630,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Halab",
-    "uid": 1053119,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "hugeblack",
-    "uid": 1059082,
-    "depth": 2,
-    "strength": 11
-  },
-  {
-    "username": "Xal0lex",
-    "uid": 1068464,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "dragonvslinux",
-    "uid": 1170966,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Veleor",
-    "uid": 1177936,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "JeromeTash",
-    "uid": 1190631,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Bitcoin_Arena",
-    "uid": 1269497,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "dkbit98",
-    "uid": 1410401,
-    "depth": 2,
-    "strength": 16
-  },
-  {
-    "username": "mole0815",
-    "uid": 1424178,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "shasan",
-    "uid": 1883627,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "lovesmayfamilis",
-    "uid": 1982152,
-    "depth": 2,
-    "strength": 28
-  },
-  {
-    "username": "DireWolfM14",
-    "uid": 2003859,
-    "depth": 2,
-    "strength": 17
-  },
-  {
-    "username": "Awaklara",
-    "uid": 2519096,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Jawhead999",
-    "uid": 2578892,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Issa56",
-    "uid": 2641992,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "FatFork",
-    "uid": 2738899,
-    "depth": 2,
-    "strength": 13
-  },
-  {
-    "username": "sirius",
-    "uid": 4,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "nanotube",
-    "uid": 1268,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "midnightmagic",
-    "uid": 2759,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Pieter Wuille",
-    "uid": 2786,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Vladimir",
-    "uid": 3380,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Maged",
-    "uid": 6347,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "forrestv",
-    "uid": 6447,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "EPiSKiNG",
-    "uid": 7351,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "SgtSpike",
-    "uid": 10502,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "piotr_n",
-    "uid": 12089,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "CydeWeys",
-    "uid": 12459,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "MiningBuddy",
-    "uid": 14001,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Mousepotato",
-    "uid": 15510,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "SolarSilver",
-    "uid": 16248,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "gwillen",
-    "uid": 22698,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "JoelKatz",
-    "uid": 27870,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Michail1",
-    "uid": 31539,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "ssateneth",
-    "uid": 33107,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "risho",
-    "uid": 34894,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "rdponticelli",
-    "uid": 37502,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "mrkent",
-    "uid": 43172,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ninjarobot",
-    "uid": 44673,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Entropy-uc",
-    "uid": 58711,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Carlton Banks",
-    "uid": 64205,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "The_Catman",
-    "uid": 93954,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "fluffypony",
-    "uid": 94840,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "BigBitz",
-    "uid": 95042,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "pmorici",
-    "uid": 107601,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "yakuza699",
-    "uid": 136722,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "alp",
-    "uid": 139027,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "DooMAD",
-    "uid": 175361,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "mindrust",
-    "uid": 176777,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Hueristic",
-    "uid": 198573,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "DaveF",
-    "uid": 300014,
-    "depth": 2,
-    "strength": 21
-  },
-  {
-    "username": "RHavar",
-    "uid": 389331,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "CascadiaCC",
-    "uid": 884714,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "IdiotCoder",
-    "uid": 932936,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "qwk",
-    "uid": 24140,
-    "depth": 2,
-    "strength": 13
-  },
-  {
-    "username": "cAPSLOCK",
-    "uid": 35501,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "DiamondCardz",
-    "uid": 55122,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Foxpup",
-    "uid": 55384,
-    "depth": 2,
-    "strength": 15
-  },
-  {
-    "username": "squall1066",
-    "uid": 55503,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "odolvlobo",
-    "uid": 62955,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "philipma1957",
-    "uid": 64507,
-    "depth": 2,
-    "strength": 18
-  },
-  {
-    "username": "babo",
-    "uid": 65636,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "KonstantinosM",
-    "uid": 68448,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "KWH",
-    "uid": 70535,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Flying Hellfish",
-    "uid": 79608,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Coinfan",
-    "uid": 82709,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ibminer",
-    "uid": 84866,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Mitchell",
-    "uid": 113670,
-    "depth": 2,
-    "strength": 22
-  },
-  {
-    "username": "monbux",
-    "uid": 133846,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Blazed",
-    "uid": 134378,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "TheNewAnon135246",
-    "uid": 153656,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "greenplastic",
-    "uid": 160943,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "eoakland",
-    "uid": 161795,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "stompix",
-    "uid": 164749,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "buckrogers",
-    "uid": 189967,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "cryptodevil",
-    "uid": 224980,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "suchmoon",
-    "uid": 234771,
-    "depth": 2,
-    "strength": 39
-  },
-  {
-    "username": "JayJuanGee",
-    "uid": 252510,
-    "depth": 2,
-    "strength": 16
-  },
-  {
-    "username": "NotFuzzyWarm",
-    "uid": 289817,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "owlcatz",
-    "uid": 313016,
-    "depth": 2,
-    "strength": 24
-  },
-  {
-    "username": "pugman",
-    "uid": 325061,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "ranochigo",
-    "uid": 334898,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "jayce",
-    "uid": 335088,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "irfan_pak10",
-    "uid": 350580,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Hellot",
-    "uid": 351430,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "AB de Royse777",
-    "uid": 366632,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "sandy-is-fine",
-    "uid": 400366,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "mocacinno",
-    "uid": 405464,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "klarki",
-    "uid": 407174,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "LoyceV",
-    "uid": 459836,
-    "depth": 2,
-    "strength": 59
-  },
-  {
-    "username": "actmyname",
-    "uid": 465017,
-    "depth": 2,
-    "strength": 17
-  },
-  {
-    "username": "Last of the V8s",
-    "uid": 479624,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "The Sceptical Chymist",
-    "uid": 487418,
-    "depth": 2,
-    "strength": 29
-  },
-  {
-    "username": "SFR10",
-    "uid": 521899,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "TwitchySeal",
-    "uid": 538922,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "jackg",
-    "uid": 543626,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Isildur (official)",
-    "uid": 545598,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "TryNinja",
-    "uid": 557798,
-    "depth": 2,
-    "strength": 12
-  },
-  {
-    "username": "BobLawblaw",
-    "uid": 569455,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Jet Cash",
-    "uid": 698159,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "condoras",
-    "uid": 740502,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "marlboroza",
-    "uid": 787736,
-    "depth": 2,
-    "strength": 21
-  },
-  {
-    "username": "Lafu",
-    "uid": 805820,
-    "depth": 2,
-    "strength": 15
-  },
-  {
-    "username": "Gunthar",
-    "uid": 817682,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "HCP",
-    "uid": 867786,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "Coding Enthusiast",
-    "uid": 879277,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Hhampuz",
-    "uid": 881377,
-    "depth": 2,
-    "strength": 40
-  },
-  {
-    "username": "JollyGood",
-    "uid": 1016855,
-    "depth": 2,
-    "strength": 19
-  },
-  {
-    "username": "El duderino_",
-    "uid": 1067333,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "icopress",
-    "uid": 1137579,
-    "depth": 2,
-    "strength": 36
-  },
-  {
-    "username": "o_e_l_e_o",
-    "uid": 1188543,
-    "depth": 2,
-    "strength": 26
-  },
-  {
-    "username": "GazetaBitcoin",
-    "uid": 1285797,
-    "depth": 2,
-    "strength": 17
-  },
-  {
-    "username": "TheBeardedBaby",
-    "uid": 1291828,
-    "depth": 2,
-    "strength": 14
-  },
-  {
-    "username": "notocactus",
-    "uid": 1292764,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "tvplus006",
-    "uid": 1311641,
-    "depth": 2,
-    "strength": 16
-  },
-  {
-    "username": "bitmover",
-    "uid": 1554927,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "anonymousminer",
-    "uid": 1668017,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "Lakai01",
-    "uid": 1724800,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "fillippone",
-    "uid": 1852120,
-    "depth": 2,
-    "strength": 20
-  },
-  {
-    "username": "The Cryptovator",
-    "uid": 1980983,
-    "depth": 2,
-    "strength": 19
-  },
-  {
-    "username": "Harkorede",
-    "uid": 2160117,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "YOSHIE",
-    "uid": 2363935,
-    "depth": 2,
-    "strength": 19
-  },
-  {
-    "username": "BC.GAME",
-    "uid": 2503677,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "zasad@",
-    "uid": 2654005,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Etranger",
-    "uid": 2709122,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "NotATether",
-    "uid": 2739424,
-    "depth": 2,
-    "strength": 11
-  },
-  {
-    "username": "bullrun2024bro",
-    "uid": 2744352,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Charles-Tim",
-    "uid": 2776678,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "Free Market Capitalist",
-    "uid": 2836461,
-    "depth": 2,
-    "strength": 11
-  },
-  {
-    "username": "apogio",
-    "uid": 3540187,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "WEB503",
-    "uid": 3543369,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Mia Chloe",
-    "uid": 3558380,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "satoshi",
-    "uid": 3,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "cygan",
-    "uid": 27470,
-    "depth": 2,
-    "strength": 14
-  },
-  {
-    "username": "Richy_T",
-    "uid": 67210,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "xhomerx10",
-    "uid": 120694,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "DefaultTrust",
-    "uid": null,
-    "depth": 2,
-    "strength": 44
-  },
-  {
-    "username": "sidehack",
-    "uid": 130792,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "sbogovac",
-    "uid": 217199,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "seoincorporation",
-    "uid": 334783,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "theymos",
-    "uid": 35,
-    "depth": 2,
-    "strength": 53
-  },
-  {
-    "username": "phantastisch",
-    "uid": 18312,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "OldScammerTag",
-    "uid": null,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "AdolfinWolf",
-    "uid": 877396,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Lydian",
-    "uid": 176461,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "achow101",
-    "uid": 290195,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "yahoo62278",
-    "uid": 355846,
-    "depth": 2,
-    "strength": 23
-  },
-  {
-    "username": "hilariousetc",
-    "uid": 397737,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Lutpin",
-    "uid": 520313,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "kzv",
-    "uid": 662400,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "TheFuzzStone",
-    "uid": 679341,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "coinlocket$",
-    "uid": 1339716,
-    "depth": 2,
-    "strength": 11
-  },
-  {
-    "username": "ICOEthics",
-    "uid": 2204241,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "JJG",
-    "uid": 10354,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "-ck",
-    "uid": 19971,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "TookDk",
-    "uid": 109430,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Biffa",
-    "uid": 149433,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Lesbian Cow",
-    "uid": 206143,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "valkir",
-    "uid": 214808,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "wheelz1200",
-    "uid": 279158,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "HerbPean",
-    "uid": 332031,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "HagssFIN",
-    "uid": 348185,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "generalt",
-    "uid": 354479,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "wndsnb",
-    "uid": 366233,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "frodocooper",
-    "uid": 988740,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Hockeybum",
-    "uid": 993021,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "MoparMiningLLC",
-    "uid": 1478835,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "mikeywith",
-    "uid": 2033515,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "casascius",
-    "uid": 2676,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Raize",
-    "uid": 4171,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Kluge",
-    "uid": 11671,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BadBear",
-    "uid": 41911,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "DannyHamilton",
-    "uid": 60820,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "mitzie",
-    "uid": 210680,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Luke-Jr",
-    "uid": 3318,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "mprep",
-    "uid": 51173,
-    "depth": 2,
-    "strength": 17
-  },
-  {
-    "username": "AakZaki",
-    "uid": 839568,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "asche",
-    "uid": 1580039,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "hybridsole",
-    "uid": 158444,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Yaremi",
-    "uid": 290159,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "tmfp",
-    "uid": 351569,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "bob123",
-    "uid": 579628,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "PowerGlove",
-    "uid": 3486361,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "gjhiggins",
-    "uid": 254673,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "DarkStar_",
-    "uid": 507936,
-    "depth": 2,
-    "strength": 25
-  },
-  {
-    "username": "CryptopreneurBrainboss",
-    "uid": 1052091,
-    "depth": 2,
-    "strength": 13
-  },
-  {
-    "username": "Don Pedro Dinero",
-    "uid": 1107222,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "DdmrDdmr",
-    "uid": 1582324,
-    "depth": 2,
-    "strength": 19
-  },
-  {
-    "username": "vapourminer",
-    "uid": 33156,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Pmalek",
-    "uid": 112493,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "mv1986",
-    "uid": 246367,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Paredao",
-    "uid": 385013,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "darkv0rt3x",
-    "uid": 392915,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Slow death",
-    "uid": 783422,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "buwaytress",
-    "uid": 901859,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "igebotz",
-    "uid": 1045971,
-    "depth": 2,
-    "strength": 11
-  },
-  {
-    "username": "Trofo",
-    "uid": 1099980,
-    "depth": 2,
-    "strength": 13
-  },
-  {
-    "username": "RickDeckard",
-    "uid": 1681586,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "1miau",
-    "uid": 2143453,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "Rikafip",
-    "uid": 2658890,
-    "depth": 2,
-    "strength": 26
-  },
-  {
-    "username": "PrivacyG",
-    "uid": 3322606,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "paid2",
-    "uid": 3373825,
-    "depth": 2,
-    "strength": 11
-  },
-  {
-    "username": "joker_josue",
-    "uid": 97582,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Daniel91",
-    "uid": 334636,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "pooya87",
-    "uid": 379147,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "hosemary",
-    "uid": 995810,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "nc50lc",
-    "uid": 1237156,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "BlackHatCoiner",
-    "uid": 2775483,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Otoh",
-    "uid": 20300,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "smoothie",
-    "uid": 25960,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "vizique",
-    "uid": 120837,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "bithalo",
-    "uid": 224612,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "minerjones",
-    "uid": 346731,
-    "depth": 2,
-    "strength": 15
-  },
-  {
-    "username": "chronicsky",
-    "uid": 353680,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Kialara",
-    "uid": 364237,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Raimonn",
-    "uid": 454323,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "tothemoonsands",
-    "uid": 504780,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "polymerbit",
-    "uid": 811213,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "gpfrag",
-    "uid": 1164586,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Corrosive",
-    "uid": 2005913,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Sat0shisGhost",
-    "uid": 2551755,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "geophphreigh",
-    "uid": 2652924,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "TheNovemberMan",
-    "uid": 2658430,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "RYR",
-    "uid": 2716064,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "khaled0111",
-    "uid": 1012655,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Sayeds56",
-    "uid": 2178170,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "yxt",
-    "uid": 23810,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "adamvp",
-    "uid": 830898,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "krogothmanhattan",
-    "uid": 1000199,
-    "depth": 2,
-    "strength": 16
-  },
-  {
-    "username": "uelque",
-    "uid": 1078623,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Xylber",
-    "uid": 1136512,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Little Mouse",
-    "uid": 2344286,
-    "depth": 2,
-    "strength": 10
-  },
-  {
-    "username": "efialtis",
-    "uid": 2597426,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Wakate",
-    "uid": 3343941,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "GxSTxV",
-    "uid": 3441086,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "memehunter",
-    "uid": 3629575,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "tiCeR",
-    "uid": 33155,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "alexrossi",
-    "uid": 86549,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "tokeweed",
-    "uid": 125583,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Swordsoffreedom",
-    "uid": 145841,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "ndnh",
-    "uid": 146601,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "arallmuus",
-    "uid": 153149,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "piebeyb",
-    "uid": 157691,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Initscri",
-    "uid": 186520,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "shogun47",
-    "uid": 222376,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "NeuroticFish",
-    "uid": 257071,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "avp2306",
-    "uid": 302041,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "izanagi narukami",
-    "uid": 334527,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Fortify",
-    "uid": 339270,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "boltz",
-    "uid": 353637,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Dump3er",
-    "uid": 358873,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ajiz138",
-    "uid": 364455,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "LFC_Bitcoin",
-    "uid": 379487,
-    "depth": 2,
-    "strength": 20
-  },
-  {
-    "username": "Betwrong",
-    "uid": 402366,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "SyGambler",
-    "uid": 405889,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "leowonderful",
-    "uid": 416731,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bones261",
-    "uid": 452769,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "ralle14",
-    "uid": 535215,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "LTU_btc",
-    "uid": 547435,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "swogerino",
-    "uid": 551460,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "DeathAngel",
-    "uid": 554812,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "kryptqnick",
-    "uid": 559842,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Cointxz",
-    "uid": 807453,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Blockchayne",
-    "uid": 882509,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "michellee",
-    "uid": 886369,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Woodie",
-    "uid": 910236,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "slaman29",
-    "uid": 917552,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "webtricks",
-    "uid": 921974,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "xLays",
-    "uid": 926962,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "goodpunt",
-    "uid": 941129,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "entebah",
-    "uid": 942911,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "dittoup",
-    "uid": 961708,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Mahdirakib",
-    "uid": 962534,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "leea-1334",
-    "uid": 969088,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Spack17",
-    "uid": 1080073,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "KTChampions",
-    "uid": 1097370,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "CLS63",
-    "uid": 1124954,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "LUCKMCFLY",
-    "uid": 1153977,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "casperBGD",
-    "uid": 1573369,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "famososMuertos",
-    "uid": 1593137,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "morvillz7z",
-    "uid": 1825672,
-    "depth": 2,
-    "strength": 12
-  },
-  {
-    "username": "cryptofrka",
-    "uid": 1862043,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Renato297",
-    "uid": 1926710,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "1Dq",
-    "uid": 2000200,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "notblox1",
-    "uid": 2015418,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "VashaUdacha777",
-    "uid": 2129514,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "rohang",
-    "uid": 2662143,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Smartvirus",
-    "uid": 2737799,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "darxiaomi",
-    "uid": 2812492,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Slissy",
-    "uid": 3335277,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "el che",
-    "uid": 3345198,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Ryu_Ar1",
-    "uid": 3430388,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Z-tight",
-    "uid": 3434176,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "AHOYBRAUSE",
-    "uid": 3442536,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BABY SHOES",
-    "uid": 3447699,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "un_rank",
-    "uid": 3471165,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Jinetics1111",
-    "uid": 3516366,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "vivekdhyani1",
-    "uid": 3525194,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "MiliMil",
-    "uid": 3526548,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "B1g4udge",
-    "uid": 3591813,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "wariner",
-    "uid": 11275,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Stemby",
-    "uid": 18953,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "picchio",
-    "uid": 36455,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Micio",
-    "uid": 115423,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "gdassori",
-    "uid": 120714,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "arulbero",
-    "uid": 170072,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "bitbollo",
-    "uid": 364070,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Plutosky",
-    "uid": 1237522,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "n0nce",
-    "uid": 3373858,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Stunna",
-    "uid": 81292,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Deathwing",
-    "uid": 111872,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "xzone",
-    "uid": 149135,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "püsür",
-    "uid": null,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Bthd",
-    "uid": 1836948,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "meser#",
-    "uid": 2855320,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Jossque",
-    "uid": 3449242,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "eightdots",
-    "uid": 3468511,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "blomen",
-    "uid": 3646263,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Wake Up",
-    "uid": 3704193,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "witcher_sense",
-    "uid": 1433865,
-    "depth": 2,
-    "strength": 15
-  },
-  {
-    "username": "Spotswood",
-    "uid": 30964,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BG4",
-    "uid": 74263,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "monkeynuts",
-    "uid": 81962,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "kimosan",
-    "uid": 104297,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Ticked",
-    "uid": 129764,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "bittawm",
-    "uid": 144811,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "klaaas",
-    "uid": 147451,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Cheeseater",
-    "uid": 186776,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Riley600",
-    "uid": 220818,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Coopster8888",
-    "uid": 333901,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ZACHM",
-    "uid": 382626,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ezeminer",
-    "uid": 396526,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "icon73",
-    "uid": 895302,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "btcapollo",
-    "uid": 1040400,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "pasrical",
-    "uid": 1103054,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "JanEmil",
-    "uid": 1118969,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "sAj1420",
-    "uid": 1173695,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "fyoung55",
-    "uid": 1230577,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Spokanistan51",
-    "uid": 2403910,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "rxalts",
-    "uid": 2514450,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Hookzup1",
-    "uid": 2746843,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Bitbuddy60",
-    "uid": 3322771,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Jambo USA",
-    "uid": 3371937,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "PreciousMetapsICT",
-    "uid": 3426831,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "fronti",
-    "uid": 34692,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "CoinEraser",
-    "uid": 65716,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "d5000",
-    "uid": 85033,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "HeRetiK",
-    "uid": 99837,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Bytekiller",
-    "uid": 110383,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bitwhizz",
-    "uid": 115075,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "klintay",
-    "uid": 122882,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "c4shm3n",
-    "uid": 130358,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "cagrund",
-    "uid": 154816,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Bitze",
-    "uid": 157000,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "willi9974",
-    "uid": 216582,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "MedaR",
-    "uid": 218282,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "5tift",
-    "uid": 320412,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "quasimodo",
-    "uid": 332272,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "o_solo_miner",
-    "uid": 395806,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Real-Duke",
-    "uid": 405482,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Acura3600",
-    "uid": 409704,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "minibit",
-    "uid": 557000,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "spirits",
-    "uid": 900408,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Kryptowerk",
-    "uid": 949248,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "bct_ail",
-    "uid": 963640,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "aundroid",
-    "uid": 1015954,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "-doubleU-",
-    "uid": 1024276,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "tyKiwanuka",
-    "uid": 1025255,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "bitcoincidence",
-    "uid": 1108269,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Tramirostronix",
-    "uid": 1134568,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "haloxon",
-    "uid": 1297306,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "GOLD_official",
-    "uid": 2640292,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "sam00",
-    "uid": 2864880,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Marc1225",
-    "uid": 3481963,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "minifrij",
-    "uid": 138940,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "dazedfool",
-    "uid": 327499,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "comit",
-    "uid": 917493,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "SebastianJu",
-    "uid": 18640,
-    "depth": 2,
-    "strength": 7
-  },
-  {
-    "username": "Lincoln6Echo",
-    "uid": 29642,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "ailikun",
-    "uid": 52440,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Milquetoast",
-    "uid": 81572,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Queenvio",
-    "uid": 90255,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Wed",
-    "uid": 107855,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "hanspeter77",
-    "uid": 110642,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "nrg1zer",
-    "uid": 138541,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "eneloop",
-    "uid": 139004,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "saugwurm",
-    "uid": 176754,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Buchi-88",
-    "uid": 204821,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "yesiam6",
-    "uid": 211163,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "jadefalke",
-    "uid": 317381,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ZyTReX",
-    "uid": 330953,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "oliver12",
-    "uid": 393771,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ds06",
-    "uid": 405709,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "x3t9fi",
-    "uid": 569362,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "spider703",
-    "uid": 1105709,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "DeepMining76",
-    "uid": 1545702,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "seek3r",
-    "uid": 2722098,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "infofront",
-    "uid": 41175,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "AlcoHoDL",
-    "uid": 998490,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "JSRAW",
-    "uid": 1210969,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "DirtyKeyboard",
-    "uid": 3545203,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "smooth",
-    "uid": 13813,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Rath_",
-    "uid": 1169179,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "John (John K.)",
-    "uid": 31288,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BitcoinPenny",
-    "uid": 352429,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "tweetious",
-    "uid": 830967,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Wind_FURY",
-    "uid": 844914,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "OneNattyLitecoin",
-    "uid": 1002739,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bluefirecorp_",
-    "uid": 1047996,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "logfiles",
-    "uid": 1247226,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "Mbitr",
-    "uid": 1781771,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "TalkStar",
-    "uid": 2136362,
-    "depth": 2,
-    "strength": 9
-  },
-  {
-    "username": "ertil",
-    "uid": 2741981,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "sheenshane",
-    "uid": 1179651,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Stalker22",
-    "uid": 2739454,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "SirJohnVonSlotty",
-    "uid": 3519432,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Balthazar",
-    "uid": 23324,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ocminer",
-    "uid": 43526,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "bigtimespaghetti",
-    "uid": 65317,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "jeremypwr",
-    "uid": 137185,
-    "depth": 2,
-    "strength": 14
-  },
-  {
-    "username": "hedgy73",
-    "uid": 162384,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Avirunes",
-    "uid": 175302,
-    "depth": 2,
-    "strength": 8
-  },
-  {
-    "username": "waterpile",
-    "uid": 301123,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "CryptoDatabase",
-    "uid": 334524,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Ultegra134",
-    "uid": 401014,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "LeGaulois",
-    "uid": 507856,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "eddie13",
-    "uid": 580327,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "SamReomo",
-    "uid": 885934,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "xtraelv",
-    "uid": 897509,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "jokers10",
-    "uid": 2497429,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "Soonandwaite",
-    "uid": 2527697,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "mandown",
-    "uid": 2546135,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "M-BTC",
-    "uid": 2797996,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Hamza2424",
-    "uid": 2811340,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Pandu Geddon",
-    "uid": 3416506,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "promise444c5",
-    "uid": 3570710,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "@Whale",
-    "uid": 3609918,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Shadiq",
-    "uid": 3622504,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "shahzadafzal",
-    "uid": 1634314,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "CryptoYar",
-    "uid": 2746686,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ZAINmalik75",
-    "uid": 2872248,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "dozerz",
-    "uid": 65034,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "miffman",
-    "uid": 83038,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "dArkjON",
-    "uid": 132212,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "digicoinuser",
-    "uid": 402550,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "BitcoinNewsMagazine",
-    "uid": 503947,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "dolphriends",
-    "uid": 1099535,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "ZipReg",
-    "uid": 1239916,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "unick",
-    "uid": 144671,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "hopenotlate",
-    "uid": 177723,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "mxhwr",
-    "uid": 235528,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "zazarb",
-    "uid": 369212,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "zoose",
-    "uid": 543831,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "zeki555",
-    "uid": 1392550,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "taikuri13",
-    "uid": 1855828,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "gbianchi",
-    "uid": 140582,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "krogoth",
-    "uid": 181253,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Xprim777",
-    "uid": 383795,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Csmiami",
-    "uid": 903175,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "ChiBitCTy",
-    "uid": 904524,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "aoluain",
-    "uid": 965440,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Heisenberg_Hunter",
-    "uid": 1564795,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Guido",
-    "uid": 96650,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "emdes",
-    "uid": 109754,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BitcoinBarrel",
-    "uid": 112877,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ShopemNL",
-    "uid": 186597,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "the_poet",
-    "uid": 216279,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "dload.1",
-    "uid": 247339,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bitkilo",
-    "uid": 314910,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "bitbunnny",
-    "uid": 360402,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Magnavox",
-    "uid": 397157,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BtcCrazy1",
-    "uid": 507015,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "d4rkwizard",
-    "uid": 531201,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "gt_addict",
-    "uid": 705593,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "minimalB",
-    "uid": 48856,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Poloherb",
-    "uid": 158058,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "eternalgloom",
-    "uid": 163641,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "MovieBTC",
-    "uid": 344390,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "mk4",
-    "uid": 886521,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Deadrisinghelp",
-    "uid": 1342946,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "lassdas",
-    "uid": 60791,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "hodlcoins",
-    "uid": 311045,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "donnyespo",
-    "uid": 211108,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "diks",
-    "uid": 344996,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "nimogsm",
-    "uid": 532686,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Komosa",
-    "uid": 843320,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "sompitonov",
-    "uid": 911663,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "imhoneer",
-    "uid": 986781,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Julien_Olynpic",
-    "uid": 1166480,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "sky999",
-    "uid": 1541583,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "FontSeli",
-    "uid": 2221613,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "FP91G",
-    "uid": 2724574,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "baeva",
-    "uid": 3120651,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "satscraper",
-    "uid": 3442679,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "light_warrior",
-    "uid": 3462000,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Numeral",
-    "uid": 3468038,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "NLNico",
-    "uid": 107762,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "btct22",
-    "uid": 124440,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "audiotopix",
-    "uid": 170839,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Piggy",
-    "uid": 188198,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "HCLivess",
-    "uid": 188453,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "pazor_true",
-    "uid": 263246,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "jstefanop",
-    "uid": 324365,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Spidersbox",
-    "uid": 374905,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Hardstyles",
-    "uid": 820393,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "paramind22",
-    "uid": 898713,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Silent26",
-    "uid": 1091163,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "saga-crypto",
-    "uid": 1116811,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "masulum",
-    "uid": 1283017,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "coblee",
-    "uid": 20651,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "AT101ET",
-    "uid": 170557,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Jcga",
-    "uid": 203049,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "guigui371",
-    "uid": 207818,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "elianite",
-    "uid": 231497,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "cryptograffiti",
-    "uid": 319250,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Abiky",
-    "uid": 397633,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Chiefmonkey",
-    "uid": 839009,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bobbyclee",
-    "uid": 930597,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "raghavsood",
-    "uid": 1042589,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ThatRandomDude",
-    "uid": 1076216,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "alpencoin",
-    "uid": 1099774,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "2stout",
-    "uid": 1171087,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Agrawas",
-    "uid": 1285450,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Mrstacy",
-    "uid": 1464056,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bitcoiner24h",
-    "uid": 1644820,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "rsincognito",
-    "uid": 2646239,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "markinaz",
-    "uid": 2649308,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "SatsLife",
-    "uid": 2680846,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "sweeteye",
-    "uid": 2740383,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Liquidoptions",
-    "uid": 2767731,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "MrMojoRising26",
-    "uid": 2819174,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Frank AlpenCoin",
-    "uid": 2844057,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Eclipse33",
-    "uid": 2983978,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Steeley",
-    "uid": 3082389,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "blucepheus",
-    "uid": 3121388,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "PeakDK",
-    "uid": 3178351,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Cryptogreatdane",
-    "uid": 3365990,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Humble Bitcoiners",
-    "uid": 3369389,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "slumberjack",
-    "uid": 3434753,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Suzuki Matt",
-    "uid": 3439672,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "YodasRedRocket",
-    "uid": 3442614,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "DOBLEBIT",
-    "uid": 3508591,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Chris!",
-    "uid": 662129,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "taufik123",
-    "uid": 831523,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "roycilik",
-    "uid": 1051955,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Husna QA",
-    "uid": 1827294,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "FinneysTrueVision",
-    "uid": 2434463,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Luzin",
-    "uid": 2813627,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "redsn0w",
-    "uid": 211419,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Ale88",
-    "uid": 932931,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "duesoldi",
-    "uid": 937020,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Paolo.Demidov",
-    "uid": 1422438,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "mendace",
-    "uid": 1983110,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Lillominato89",
-    "uid": 2796662,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "coingamblingreviews",
-    "uid": 339362,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "onemd",
-    "uid": 639573,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "sportsbet.io",
-    "uid": 832366,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "jack0m",
-    "uid": 239328,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "giammangiato",
-    "uid": 889300,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "creep_o",
-    "uid": 1260847,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Dernoste",
-    "uid": 1583465,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Ramelius",
-    "uid": 1074603,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "joeperry",
-    "uid": 97179,
-    "depth": 2,
-    "strength": 5
-  },
-  {
-    "username": "allyouracid",
-    "uid": 138833,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "iv4n",
-    "uid": 553902,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Javi_Anibarro",
-    "uid": 805741,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Steamtyme",
-    "uid": 1112531,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Leviathan.007",
-    "uid": 1856285,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "decodx",
-    "uid": 2745549,
-    "depth": 2,
-    "strength": 6
-  },
-  {
-    "username": "Floxynice",
-    "uid": 3623234,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "julerz12",
-    "uid": 950662,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "rozak",
-    "uid": 1016105,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "GreatArkansas",
-    "uid": 1164368,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "UserU",
-    "uid": 1452494,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "mu_enrico",
-    "uid": 1574226,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BITCOIN4X",
-    "uid": 1903411,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Upgrade00",
-    "uid": 2423488,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "johoe",
-    "uid": 143551,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Trêvoid",
-    "uid": null,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "yhiaali3",
-    "uid": 2168312,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ImThour",
-    "uid": 2775128,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Cricktor",
-    "uid": 3253914,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "P_Shep",
-    "uid": 47656,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "jojo69",
-    "uid": 49008,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bitserve",
-    "uid": 87930,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "600watt",
-    "uid": 88912,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "kurious",
-    "uid": 102795,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "gentlemand",
-    "uid": 155345,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Arriemoller",
-    "uid": 159292,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "HairyMaclairy",
-    "uid": 181806,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Biodom",
-    "uid": 223922,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Globb0",
-    "uid": 244243,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "BTCMILLIONAIRE",
-    "uid": 387921,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "micromen",
-    "uid": 407892,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Icygreen",
-    "uid": 1013952,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "d_eddie",
-    "uid": 1027694,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Cryptoqueeen",
-    "uid": 1069987,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "bavicrypto",
-    "uid": 1137750,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "VB1001",
-    "uid": 1138727,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Kylapoiss",
-    "uid": 1803753,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "MaoChao",
-    "uid": 410541,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Coin-1",
-    "uid": 1133335,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "bubbalex",
-    "uid": 1775670,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "madnessteat",
-    "uid": 1894120,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "slackovic",
-    "uid": 1130307,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "inspace",
-    "uid": 2477002,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "Peanutswar",
-    "uid": 2762272,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Nestade",
-    "uid": 134226,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "SPQRCoin",
-    "uid": 551559,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "Alex_Sr",
-    "uid": 1762404,
-    "depth": 2,
-    "strength": 4
-  },
-  {
-    "username": "solosequenosenada",
-    "uid": 80810,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "paxmao",
-    "uid": 1192397,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "UmerIdrees",
-    "uid": 1729238,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "laanwj",
-    "uid": 2252,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Chikito",
-    "uid": 938833,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Porfirii",
-    "uid": 991374,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "joniboini",
-    "uid": 1275282,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "abhiseshakana",
-    "uid": 1878246,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Neo_Coin",
-    "uid": 349696,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "*Ace*",
-    "uid": 3687357,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "tomahawk9",
-    "uid": 849090,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ryzaadit",
-    "uid": 961598,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "kawetsriyanto",
-    "uid": 2003707,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Theb",
-    "uid": 898928,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Lucius",
-    "uid": 533583,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Murat",
-    "uid": 815246,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "MishaMuc",
-    "uid": 198552,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "CjMapope",
-    "uid": 443338,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "goldkingcoiner",
-    "uid": 1112467,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Souri",
-    "uid": 1573409,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "dissi_xD",
-    "uid": 2517710,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "-Lemming-",
-    "uid": 2630483,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Plaguedeath",
-    "uid": 2790123,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Kamix",
-    "uid": 2875501,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "MaxMueller",
-    "uid": 3527653,
-    "depth": 2,
-    "strength": 0
-  },
-  {
-    "username": "CucakRowo",
-    "uid": 1932205,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ScamViruS",
-    "uid": 2581425,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "_BlackStar",
-    "uid": 2867307,
-    "depth": 2,
-    "strength": 2
-  },
-  {
-    "username": "Solosanz",
-    "uid": 2789068,
-    "depth": 2,
-    "strength": 3
-  },
-  {
-    "username": "Cantsay",
-    "uid": 3435148,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "OrangeFren",
-    "uid": 3440279,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "citb0in",
-    "uid": 3491915,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Apocollapse",
-    "uid": 2789534,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "alani123",
-    "uid": 121796,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "2weiX",
-    "uid": 18595,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Evilish",
-    "uid": 103764,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "wttbs",
-    "uid": 123869,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Xavier59",
-    "uid": 728512,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "xxjumperxx",
-    "uid": 943435,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "thiago007",
-    "uid": 2879601,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Est2013",
-    "uid": 2886832,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "DIKUL",
-    "uid": 2148411,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Nikisa",
-    "uid": 2154195,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "vv181",
-    "uid": 327124,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Coyster",
-    "uid": 2376653,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "texv",
-    "uid": 221431,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "hymperion",
-    "uid": 529564,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "turtlecute",
-    "uid": 3459054,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "usque_ad_finem",
-    "uid": 3477513,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Despairo",
-    "uid": 2793306,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "hephaist0s",
-    "uid": 80081,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ithd1",
-    "uid": 1210149,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "ragilab",
-    "uid": 3435957,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Otillio1330",
-    "uid": 3461002,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "zuizui",
-    "uid": 3501819,
-    "depth": 2,
-    "strength": 1
-  },
-  {
-    "username": "Box Guy",
-    "uid": 3560419,
-    "depth": 2,
-    "strength": 1
-  }
-]
+{
+  "metadata": {
+    "source_files": [
+      "trust_DT",
+      "btt_username_+_uid___.json"
+    ],
+    "total_records": 783,
+    "depth_1_total": 93,
+    "depth_2_total": 689,
+    "uid_found_total": 778,
+    "uid_missing_total": 5,
+    "removed_struck_usernames": 4265,
+    "removed_negative_strength": 0
+  },
+  "data": [
+    {
+      "username": "DefaultTrust",
+      "uid": null,
+      "depth": 0,
+      "strength": 0
+    },
+    {
+      "username": "1miau",
+      "uid": 2143453,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "AakZaki",
+      "uid": 839568,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "abhiseshakana",
+      "uid": 1878246,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "achow101",
+      "uid": 290195,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "albon",
+      "uid": 123824,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Ale88",
+      "uid": 932931,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Awaklara",
+      "uid": 2519096,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "bitbollo",
+      "uid": 364070,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Bitcoin_Arena",
+      "uid": 1269497,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "BitcoinPenny",
+      "uid": 352429,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "BlackHatCoiner",
+      "uid": 2775483,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Buchi-88",
+      "uid": 204821,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "buckrogers",
+      "uid": 189967,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "bullrun2024bro",
+      "uid": 2744352,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "buwaytress",
+      "uid": 901859,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Charles-Tim",
+      "uid": 2776678,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "cryptofrka",
+      "uid": 1862043,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "CryptopreneurBrainboss",
+      "uid": 1052091,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Cyrus",
+      "uid": 78147,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "d5000",
+      "uid": 85033,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "DaveF",
+      "uid": 300014,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "DdmrDdmr",
+      "uid": 1582324,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "DireWolfM14",
+      "uid": 2003859,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "efialtis",
+      "uid": 2597426,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "EFS",
+      "uid": 140584,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "El duderino_",
+      "uid": 1067333,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Etranger",
+      "uid": 2709122,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "examplens",
+      "uid": 314792,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "fillippone",
+      "uid": 1852120,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Foxpup",
+      "uid": 55384,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Free Market Capitalist",
+      "uid": 2836461,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "GazetaBitcoin",
+      "uid": 1285797,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "gbianchi",
+      "uid": 140582,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "geophphreigh",
+      "uid": 2652924,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "giammangiato",
+      "uid": 889300,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "gmaxwell",
+      "uid": 11425,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "hilariousandco",
+      "uid": 164822,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "holydarkness",
+      "uid": 754818,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "hosemary",
+      "uid": 995810,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "hugeblack",
+      "uid": 1059082,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Husna QA",
+      "uid": 1827294,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "ibminer",
+      "uid": 84866,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "icopress",
+      "uid": 1137579,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "inspace",
+      "uid": 2477002,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "irfan_pak10",
+      "uid": 350580,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "JayJuanGee",
+      "uid": 252510,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "jeremypwr",
+      "uid": 137185,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "JeromeTash",
+      "uid": 1190631,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "joker_josue",
+      "uid": 97582,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "jokers10",
+      "uid": 2497429,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "JollyGood",
+      "uid": 1016855,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "klarki",
+      "uid": 407174,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "krogothmanhattan",
+      "uid": 1000199,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "KTChampions",
+      "uid": 1097370,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Lafu",
+      "uid": 805820,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Lakai01",
+      "uid": 1724800,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Lesbian Cow",
+      "uid": 206143,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Lillominato89",
+      "uid": 2796662,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Little Mouse",
+      "uid": 2344286,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "logfiles",
+      "uid": 1247226,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "lovesmayfamilis",
+      "uid": 1982152,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "LoyceV",
+      "uid": 459836,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "memehunter",
+      "uid": 3629575,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Mitchell",
+      "uid": 113670,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "mocacinno",
+      "uid": 405464,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "mole0815",
+      "uid": 1424178,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "mprep",
+      "uid": 51173,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "NeuroticFish",
+      "uid": 257071,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "nutildah",
+      "uid": 317618,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "philipma1957",
+      "uid": 64507,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Pmalek",
+      "uid": 112493,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Real-Duke",
+      "uid": 405482,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Rikafip",
+      "uid": 2658890,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "SFR10",
+      "uid": 521899,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "shahzadafzal",
+      "uid": 1634314,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Stalker22",
+      "uid": 2739454,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "stompix",
+      "uid": 164749,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "The Cryptovator",
+      "uid": 1980983,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "The Sceptical Chymist",
+      "uid": 487418,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "theymos",
+      "uid": 35,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Trofo",
+      "uid": 1099980,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "tvplus006",
+      "uid": 1311641,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "tweetious",
+      "uid": 830967,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "vapourminer",
+      "uid": 33156,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Vod",
+      "uid": 30747,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "Welsh",
+      "uid": 84521,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "willi9974",
+      "uid": 216582,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "wwzsocki",
+      "uid": 131333,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "yahoo62278",
+      "uid": 355846,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "YodasRedRocket",
+      "uid": 3442614,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "YOSHIE",
+      "uid": 2363935,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "zasad@",
+      "uid": 2654005,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "zazarb",
+      "uid": 369212,
+      "depth": 1,
+      "strength": 1
+    },
+    {
+      "username": "*Ace*",
+      "uid": 3687357,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "-ck",
+      "uid": 19971,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "-doubleU-",
+      "uid": 1024276,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "-Lemming-",
+      "uid": 2630483,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "1Dq",
+      "uid": 2000200,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "1miau",
+      "uid": 2143453,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "2stout",
+      "uid": 1171087,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "2weiX",
+      "uid": 18595,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "5tift",
+      "uid": 320412,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "600watt",
+      "uid": 88912,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "@Whale",
+      "uid": 3609918,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "_BlackStar",
+      "uid": 2867307,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "AakZaki",
+      "uid": 839568,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "AB de Royse777",
+      "uid": 366632,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "ABCbits",
+      "uid": 359716,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "abhiseshakana",
+      "uid": 1878246,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Abiky",
+      "uid": 397633,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "achow101",
+      "uid": 290195,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "actmyname",
+      "uid": 465017,
+      "depth": 2,
+      "strength": 17
+    },
+    {
+      "username": "Acura3600",
+      "uid": 409704,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "adamvp",
+      "uid": 830898,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "AdolfinWolf",
+      "uid": 877396,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Adriano",
+      "uid": 112568,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Agrawas",
+      "uid": 1285450,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "AHOYBRAUSE",
+      "uid": 3442536,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ailikun",
+      "uid": 52440,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ajiz138",
+      "uid": 364455,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "alani123",
+      "uid": 121796,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "albon",
+      "uid": 123824,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "AlcoHoDL",
+      "uid": 998490,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Ale88",
+      "uid": 932931,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Alex_Sr",
+      "uid": 1762404,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "alexrossi",
+      "uid": 86549,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "allyouracid",
+      "uid": 138833,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "alp",
+      "uid": 139027,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "alpencoin",
+      "uid": 1099774,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "anonymousminer",
+      "uid": 1668017,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "aoluain",
+      "uid": 965440,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Apocollapse",
+      "uid": 2789534,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "apogio",
+      "uid": 3540187,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "arallmuus",
+      "uid": 153149,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Arriemoller",
+      "uid": 159292,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "arulbero",
+      "uid": 170072,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "asche",
+      "uid": 1580039,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "AT101ET",
+      "uid": 170557,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "audiotopix",
+      "uid": 170839,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "aundroid",
+      "uid": 1015954,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Avirunes",
+      "uid": 175302,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "avp2306",
+      "uid": 302041,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Awaklara",
+      "uid": 2519096,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "B1g4udge",
+      "uid": 3591813,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "babo",
+      "uid": 65636,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "BABY SHOES",
+      "uid": 3447699,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BadBear",
+      "uid": 41911,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "baeva",
+      "uid": 3120651,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Balthazar",
+      "uid": 23324,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Barcode_",
+      "uid": 779106,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "bavicrypto",
+      "uid": 1137750,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BC.GAME",
+      "uid": 2503677,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "bct_ail",
+      "uid": 963640,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Betwrong",
+      "uid": 402366,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "BG4",
+      "uid": 74263,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Biffa",
+      "uid": 149433,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BigBitz",
+      "uid": 95042,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bigtimespaghetti",
+      "uid": 65317,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Biodom",
+      "uid": 223922,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "bitbollo",
+      "uid": 364070,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "Bitbuddy60",
+      "uid": 3322771,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bitbunnny",
+      "uid": 360402,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "BITCOIN4X",
+      "uid": 1903411,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Bitcoin_Arena",
+      "uid": 1269497,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "BitcoinBarrel",
+      "uid": 112877,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bitcoincidence",
+      "uid": 1108269,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bitcoiner24h",
+      "uid": 1644820,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BitcoinNewsMagazine",
+      "uid": 503947,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BitcoinPenny",
+      "uid": 352429,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bithalo",
+      "uid": 224612,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "bitkilo",
+      "uid": 314910,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "bitmover",
+      "uid": 1554927,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "bitserve",
+      "uid": 87930,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bittawm",
+      "uid": 144811,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bitwhizz",
+      "uid": 115075,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Bitze",
+      "uid": 157000,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "BlackHatCoiner",
+      "uid": 2775483,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "Blazed",
+      "uid": 134378,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "Blockchayne",
+      "uid": 882509,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "blomen",
+      "uid": 3646263,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "blucepheus",
+      "uid": 3121388,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bluefirecorp_",
+      "uid": 1047996,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "bob123",
+      "uid": 579628,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "bobbyclee",
+      "uid": 930597,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BobLawblaw",
+      "uid": 569455,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "boltz",
+      "uid": 353637,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "bones261",
+      "uid": 452769,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "Box Guy",
+      "uid": 3560419,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "btcapollo",
+      "uid": 1040400,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BtcCrazy1",
+      "uid": 507015,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "BTCMILLIONAIRE",
+      "uid": 387921,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "btct22",
+      "uid": 124440,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Bthd",
+      "uid": 1836948,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "bubbalex",
+      "uid": 1775670,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Buchi-88",
+      "uid": 204821,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "buckrogers",
+      "uid": 189967,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "bullrun2024bro",
+      "uid": 2744352,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "buwaytress",
+      "uid": 901859,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "Bytekiller",
+      "uid": 110383,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "c4shm3n",
+      "uid": 130358,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "cagrund",
+      "uid": 154816,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Cantsay",
+      "uid": 3435148,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "cAPSLOCK",
+      "uid": 35501,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Carlton Banks",
+      "uid": 64205,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "casascius",
+      "uid": 2676,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "CascadiaCC",
+      "uid": 884714,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "casperBGD",
+      "uid": 1573369,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Charles-Tim",
+      "uid": 2776678,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "Cheeseater",
+      "uid": 186776,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ChiBitCTy",
+      "uid": 904524,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Chiefmonkey",
+      "uid": 839009,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Chikito",
+      "uid": 938833,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Chris!",
+      "uid": 662129,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "chronicsky",
+      "uid": 353680,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "citb0in",
+      "uid": 3491915,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "CjMapope",
+      "uid": 443338,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "CLS63",
+      "uid": 1124954,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "coblee",
+      "uid": 20651,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Coding Enthusiast",
+      "uid": 879277,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Coin-1",
+      "uid": 1133335,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "CoinEraser",
+      "uid": 65716,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Coinfan",
+      "uid": 82709,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "coingamblingreviews",
+      "uid": 339362,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "coinlocket$",
+      "uid": 1339716,
+      "depth": 2,
+      "strength": 11
+    },
+    {
+      "username": "Cointxz",
+      "uid": 807453,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "comit",
+      "uid": 917493,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "condoras",
+      "uid": 740502,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Coopster8888",
+      "uid": 333901,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Corrosive",
+      "uid": 2005913,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Coyster",
+      "uid": 2376653,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "creep_o",
+      "uid": 1260847,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Cricktor",
+      "uid": 3253914,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "CryptoDatabase",
+      "uid": 334524,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "cryptodevil",
+      "uid": 224980,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "cryptofrka",
+      "uid": 1862043,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "cryptograffiti",
+      "uid": 319250,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Cryptogreatdane",
+      "uid": 3365990,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "CryptopreneurBrainboss",
+      "uid": 1052091,
+      "depth": 2,
+      "strength": 13
+    },
+    {
+      "username": "Cryptoqueeen",
+      "uid": 1069987,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "CryptoYar",
+      "uid": 2746686,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Csmiami",
+      "uid": 903175,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "CucakRowo",
+      "uid": 1932205,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "CydeWeys",
+      "uid": 12459,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "cygan",
+      "uid": 27470,
+      "depth": 2,
+      "strength": 14
+    },
+    {
+      "username": "Cyrus",
+      "uid": 78147,
+      "depth": 2,
+      "strength": 21
+    },
+    {
+      "username": "d4rkwizard",
+      "uid": 531201,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "d5000",
+      "uid": 85033,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "d_eddie",
+      "uid": 1027694,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Daniel91",
+      "uid": 334636,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "DannyHamilton",
+      "uid": 60820,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "dArkjON",
+      "uid": 132212,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "DarkStar_",
+      "uid": 507936,
+      "depth": 2,
+      "strength": 25
+    },
+    {
+      "username": "darkv0rt3x",
+      "uid": 392915,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "darxiaomi",
+      "uid": 2812492,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "DaveF",
+      "uid": 300014,
+      "depth": 2,
+      "strength": 21
+    },
+    {
+      "username": "dazedfool",
+      "uid": 327499,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "dbshck",
+      "uid": 153634,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "DdmrDdmr",
+      "uid": 1582324,
+      "depth": 2,
+      "strength": 19
+    },
+    {
+      "username": "Deadrisinghelp",
+      "uid": 1342946,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "DeathAngel",
+      "uid": 554812,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Deathwing",
+      "uid": 111872,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "decodx",
+      "uid": 2745549,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "DeepMining76",
+      "uid": 1545702,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "DefaultTrust",
+      "uid": null,
+      "depth": 2,
+      "strength": 44
+    },
+    {
+      "username": "Dernoste",
+      "uid": 1583465,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Despairo",
+      "uid": 2793306,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "DiamondCardz",
+      "uid": 55122,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "digicoinuser",
+      "uid": 402550,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "diks",
+      "uid": 344996,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "DIKUL",
+      "uid": 2148411,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "DireWolfM14",
+      "uid": 2003859,
+      "depth": 2,
+      "strength": 17
+    },
+    {
+      "username": "DirtyKeyboard",
+      "uid": 3545203,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "dissi_xD",
+      "uid": 2517710,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "dittoup",
+      "uid": 961708,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "dkbit98",
+      "uid": 1410401,
+      "depth": 2,
+      "strength": 16
+    },
+    {
+      "username": "dload.1",
+      "uid": 247339,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "DOBLEBIT",
+      "uid": 3508591,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "dolphriends",
+      "uid": 1099535,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Don Pedro Dinero",
+      "uid": 1107222,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "donnyespo",
+      "uid": 211108,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "dooglus",
+      "uid": 3420,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "DooMAD",
+      "uid": 175361,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "dozerz",
+      "uid": 65034,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "dragonvslinux",
+      "uid": 1170966,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "ds06",
+      "uid": 405709,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "duesoldi",
+      "uid": 937020,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Dump3er",
+      "uid": 358873,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Eclipse33",
+      "uid": 2983978,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "eddie13",
+      "uid": 580327,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "efialtis",
+      "uid": 2597426,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "EFS",
+      "uid": 140584,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "eightdots",
+      "uid": 3468511,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "el che",
+      "uid": 3345198,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "El duderino_",
+      "uid": 1067333,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "elianite",
+      "uid": 231497,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "emdes",
+      "uid": 109754,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "eneloop",
+      "uid": 139004,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "entebah",
+      "uid": 942911,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Entropy-uc",
+      "uid": 58711,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "eoakland",
+      "uid": 161795,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "EPiSKiNG",
+      "uid": 7351,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ertil",
+      "uid": 2741981,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Est2013",
+      "uid": 2886832,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "eternalgloom",
+      "uid": 163641,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Etranger",
+      "uid": 2709122,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Evilish",
+      "uid": 103764,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "examplens",
+      "uid": 314792,
+      "depth": 2,
+      "strength": 24
+    },
+    {
+      "username": "ezeminer",
+      "uid": 396526,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "famososMuertos",
+      "uid": 1593137,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "FatFork",
+      "uid": 2738899,
+      "depth": 2,
+      "strength": 13
+    },
+    {
+      "username": "fillippone",
+      "uid": 1852120,
+      "depth": 2,
+      "strength": 20
+    },
+    {
+      "username": "FinneysTrueVision",
+      "uid": 2434463,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Floxynice",
+      "uid": 3623234,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "fluffypony",
+      "uid": 94840,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Flying Hellfish",
+      "uid": 79608,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "FontSeli",
+      "uid": 2221613,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "forrestv",
+      "uid": 6447,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Fortify",
+      "uid": 339270,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Foxpup",
+      "uid": 55384,
+      "depth": 2,
+      "strength": 15
+    },
+    {
+      "username": "FP91G",
+      "uid": 2724574,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "franckuestein",
+      "uid": 225121,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Frank AlpenCoin",
+      "uid": 2844057,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Free Market Capitalist",
+      "uid": 2836461,
+      "depth": 2,
+      "strength": 11
+    },
+    {
+      "username": "frodocooper",
+      "uid": 988740,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "fronti",
+      "uid": 34692,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "fyoung55",
+      "uid": 1230577,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "GazetaBitcoin",
+      "uid": 1285797,
+      "depth": 2,
+      "strength": 17
+    },
+    {
+      "username": "gbianchi",
+      "uid": 140582,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "gdassori",
+      "uid": 120714,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "generalt",
+      "uid": 354479,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "gentlemand",
+      "uid": 155345,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "geophphreigh",
+      "uid": 2652924,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "giammangiato",
+      "uid": 889300,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "gjhiggins",
+      "uid": 254673,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Globb0",
+      "uid": 244243,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "gmaxwell",
+      "uid": 11425,
+      "depth": 2,
+      "strength": 17
+    },
+    {
+      "username": "GOLD_official",
+      "uid": 2640292,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "goldkingcoiner",
+      "uid": 1112467,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "goodpunt",
+      "uid": 941129,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "gpfrag",
+      "uid": 1164586,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "GreatArkansas",
+      "uid": 1164368,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "greenplastic",
+      "uid": 160943,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "gt_addict",
+      "uid": 705593,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Guido",
+      "uid": 96650,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "guigui371",
+      "uid": 207818,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Gunthar",
+      "uid": 817682,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "gwillen",
+      "uid": 22698,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "GxSTxV",
+      "uid": 3441086,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "HagssFIN",
+      "uid": 348185,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "HairyMaclairy",
+      "uid": 181806,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Halab",
+      "uid": 1053119,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "haloxon",
+      "uid": 1297306,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Hamza2424",
+      "uid": 2811340,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "hanspeter77",
+      "uid": 110642,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Hardstyles",
+      "uid": 820393,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Harkorede",
+      "uid": 2160117,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "HCLivess",
+      "uid": 188453,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "HCP",
+      "uid": 867786,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "hedgy73",
+      "uid": 162384,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Heisenberg_Hunter",
+      "uid": 1564795,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Hellot",
+      "uid": 351430,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "hephaist0s",
+      "uid": 80081,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "HerbPean",
+      "uid": 332031,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "HeRetiK",
+      "uid": 99837,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Hhampuz",
+      "uid": 881377,
+      "depth": 2,
+      "strength": 40
+    },
+    {
+      "username": "hilariousandco",
+      "uid": 164822,
+      "depth": 2,
+      "strength": 30
+    },
+    {
+      "username": "hilariousetc",
+      "uid": 397737,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Hockeybum",
+      "uid": 993021,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "hodlcoins",
+      "uid": 311045,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "holydarkness",
+      "uid": 754818,
+      "depth": 2,
+      "strength": 12
+    },
+    {
+      "username": "Hookzup1",
+      "uid": 2746843,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "hopenotlate",
+      "uid": 177723,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "hosemary",
+      "uid": 995810,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "Hueristic",
+      "uid": 198573,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "hugeblack",
+      "uid": 1059082,
+      "depth": 2,
+      "strength": 11
+    },
+    {
+      "username": "Humble Bitcoiners",
+      "uid": 3369389,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Husna QA",
+      "uid": 1827294,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "hybridsole",
+      "uid": 158444,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "hymperion",
+      "uid": 529564,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ibminer",
+      "uid": 84866,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "ICOEthics",
+      "uid": 2204241,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "icon73",
+      "uid": 895302,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "icopress",
+      "uid": 1137579,
+      "depth": 2,
+      "strength": 36
+    },
+    {
+      "username": "Icygreen",
+      "uid": 1013952,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "IdiotCoder",
+      "uid": 932936,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "igebotz",
+      "uid": 1045971,
+      "depth": 2,
+      "strength": 11
+    },
+    {
+      "username": "imhoneer",
+      "uid": 986781,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "ImThour",
+      "uid": 2775128,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "infofront",
+      "uid": 41175,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Initscri",
+      "uid": 186520,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "inspace",
+      "uid": 2477002,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "irfan_pak10",
+      "uid": 350580,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Isildur (official)",
+      "uid": 545598,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Issa56",
+      "uid": 2641992,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "ithd1",
+      "uid": 1210149,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "iv4n",
+      "uid": 553902,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "izanagi narukami",
+      "uid": 334527,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "jack0m",
+      "uid": 239328,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "jackg",
+      "uid": 543626,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "jadefalke",
+      "uid": 317381,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Jambo USA",
+      "uid": 3371937,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "JanEmil",
+      "uid": 1118969,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Javi_Anibarro",
+      "uid": 805741,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Jawhead999",
+      "uid": 2578892,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "jayce",
+      "uid": 335088,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "JayJuanGee",
+      "uid": 252510,
+      "depth": 2,
+      "strength": 16
+    },
+    {
+      "username": "Jcga",
+      "uid": 203049,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "jeremypwr",
+      "uid": 137185,
+      "depth": 2,
+      "strength": 14
+    },
+    {
+      "username": "JeromeTash",
+      "uid": 1190631,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Jet Cash",
+      "uid": 698159,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Jinetics1111",
+      "uid": 3516366,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "JJG",
+      "uid": 10354,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "JoelKatz",
+      "uid": 27870,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "joeperry",
+      "uid": 97179,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "John (John K.)",
+      "uid": 31288,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "johoe",
+      "uid": 143551,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "jojo69",
+      "uid": 49008,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "joker_josue",
+      "uid": 97582,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "jokers10",
+      "uid": 2497429,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "JollyGood",
+      "uid": 1016855,
+      "depth": 2,
+      "strength": 19
+    },
+    {
+      "username": "joniboini",
+      "uid": 1275282,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Jossque",
+      "uid": 3449242,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "JSRAW",
+      "uid": 1210969,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "jstefanop",
+      "uid": 324365,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "julerz12",
+      "uid": 950662,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Julien_Olynpic",
+      "uid": 1166480,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Kamix",
+      "uid": 2875501,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "kawetsriyanto",
+      "uid": 2003707,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "khaled0111",
+      "uid": 1012655,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Kialara",
+      "uid": 364237,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "kimosan",
+      "uid": 104297,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "klaaas",
+      "uid": 147451,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "klarki",
+      "uid": 407174,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "klintay",
+      "uid": 122882,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Kluge",
+      "uid": 11671,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Komosa",
+      "uid": 843320,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "KonstantinosM",
+      "uid": 68448,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "krogoth",
+      "uid": 181253,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "krogothmanhattan",
+      "uid": 1000199,
+      "depth": 2,
+      "strength": 16
+    },
+    {
+      "username": "Kryptowerk",
+      "uid": 949248,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "kryptqnick",
+      "uid": 559842,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "KTChampions",
+      "uid": 1097370,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "kurious",
+      "uid": 102795,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "KWH",
+      "uid": 70535,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Kylapoiss",
+      "uid": 1803753,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "kzv",
+      "uid": 662400,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "laanwj",
+      "uid": 2252,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Lafu",
+      "uid": 805820,
+      "depth": 2,
+      "strength": 15
+    },
+    {
+      "username": "Lakai01",
+      "uid": 1724800,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "lassdas",
+      "uid": 60791,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Last of the V8s",
+      "uid": 479624,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "leea-1334",
+      "uid": 969088,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "LeGaulois",
+      "uid": 507856,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "leowonderful",
+      "uid": 416731,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Lesbian Cow",
+      "uid": 206143,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "Leviathan.007",
+      "uid": 1856285,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "LFC_Bitcoin",
+      "uid": 379487,
+      "depth": 2,
+      "strength": 20
+    },
+    {
+      "username": "light_warrior",
+      "uid": 3462000,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Lillominato89",
+      "uid": 2796662,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Lincoln6Echo",
+      "uid": 29642,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Liquidoptions",
+      "uid": 2767731,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Little Mouse",
+      "uid": 2344286,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "logfiles",
+      "uid": 1247226,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "lovesmayfamilis",
+      "uid": 1982152,
+      "depth": 2,
+      "strength": 28
+    },
+    {
+      "username": "LoyceV",
+      "uid": 459836,
+      "depth": 2,
+      "strength": 59
+    },
+    {
+      "username": "LTU_btc",
+      "uid": 547435,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Lucius",
+      "uid": 533583,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "LUCKMCFLY",
+      "uid": 1153977,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Luke-Jr",
+      "uid": 3318,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Lutpin",
+      "uid": 520313,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Luzin",
+      "uid": 2813627,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Lydian",
+      "uid": 176461,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "M-BTC",
+      "uid": 2797996,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "madnessteat",
+      "uid": 1894120,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Maged",
+      "uid": 6347,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Magnavox",
+      "uid": 397157,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Mahdirakib",
+      "uid": 962534,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "malevolent",
+      "uid": 23092,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "mandown",
+      "uid": 2546135,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "MaoChao",
+      "uid": 410541,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Marc1225",
+      "uid": 3481963,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "markinaz",
+      "uid": 2649308,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "marlboroza",
+      "uid": 787736,
+      "depth": 2,
+      "strength": 21
+    },
+    {
+      "username": "masulum",
+      "uid": 1283017,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "MaxMueller",
+      "uid": 3527653,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Mbitr",
+      "uid": 1781771,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "MedaR",
+      "uid": 218282,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "memehunter",
+      "uid": 3629575,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "mendace",
+      "uid": 1983110,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "meser#",
+      "uid": 2855320,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Mia Chloe",
+      "uid": 3558380,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Michail1",
+      "uid": 31539,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "michellee",
+      "uid": 886369,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Micio",
+      "uid": 115423,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "micromen",
+      "uid": 407892,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "midnightmagic",
+      "uid": 2759,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "miffman",
+      "uid": 83038,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "mikeywith",
+      "uid": 2033515,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "MiliMil",
+      "uid": 3526548,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Milquetoast",
+      "uid": 81572,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "mindrust",
+      "uid": 176777,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "minerjones",
+      "uid": 346731,
+      "depth": 2,
+      "strength": 15
+    },
+    {
+      "username": "minibit",
+      "uid": 557000,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "minifrij",
+      "uid": 138940,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "minimalB",
+      "uid": 48856,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "MiningBuddy",
+      "uid": 14001,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "MishaMuc",
+      "uid": 198552,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Mitchell",
+      "uid": 113670,
+      "depth": 2,
+      "strength": 22
+    },
+    {
+      "username": "mitzie",
+      "uid": 210680,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "mk4",
+      "uid": 886521,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "mocacinno",
+      "uid": 405464,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "mole0815",
+      "uid": 1424178,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "monbux",
+      "uid": 133846,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "monkeynuts",
+      "uid": 81962,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "MoparMiningLLC",
+      "uid": 1478835,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "morvillz7z",
+      "uid": 1825672,
+      "depth": 2,
+      "strength": 12
+    },
+    {
+      "username": "Mousepotato",
+      "uid": 15510,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "MovieBTC",
+      "uid": 344390,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "mprep",
+      "uid": 51173,
+      "depth": 2,
+      "strength": 17
+    },
+    {
+      "username": "Mr. Big",
+      "uid": 553678,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "mrkent",
+      "uid": 43172,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "MrMojoRising26",
+      "uid": 2819174,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Mrstacy",
+      "uid": 1464056,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "mu_enrico",
+      "uid": 1574226,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Murat",
+      "uid": 815246,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "mv1986",
+      "uid": 246367,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "mxhwr",
+      "uid": 235528,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "n0nce",
+      "uid": 3373858,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "nanotube",
+      "uid": 1268,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "nc50lc",
+      "uid": 1237156,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "ndnh",
+      "uid": 146601,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Neo_Coin",
+      "uid": 349696,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Nestade",
+      "uid": 134226,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "NeuroticFish",
+      "uid": 257071,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "Nikisa",
+      "uid": 2154195,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "nimogsm",
+      "uid": 532686,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ninjarobot",
+      "uid": 44673,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "NLNico",
+      "uid": 107762,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "NotATether",
+      "uid": 2739424,
+      "depth": 2,
+      "strength": 11
+    },
+    {
+      "username": "notblox1",
+      "uid": 2015418,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "NotFuzzyWarm",
+      "uid": 289817,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "notocactus",
+      "uid": 1292764,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "nrg1zer",
+      "uid": 138541,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Numeral",
+      "uid": 3468038,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "nutildah",
+      "uid": 317618,
+      "depth": 2,
+      "strength": 30
+    },
+    {
+      "username": "o_e_l_e_o",
+      "uid": 1188543,
+      "depth": 2,
+      "strength": 26
+    },
+    {
+      "username": "o_solo_miner",
+      "uid": 395806,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "ocminer",
+      "uid": 43526,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "odolvlobo",
+      "uid": 62955,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "OldScammerTag",
+      "uid": 330472,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "oliver12",
+      "uid": 393771,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "OmegaStarScream",
+      "uid": 375981,
+      "depth": 2,
+      "strength": 12
+    },
+    {
+      "username": "onemd",
+      "uid": 639573,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "OneNattyLitecoin",
+      "uid": 1002739,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "OrangeFren",
+      "uid": 3440279,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Otillio1330",
+      "uid": 3461002,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Otoh",
+      "uid": 20300,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "owlcatz",
+      "uid": 313016,
+      "depth": 2,
+      "strength": 24
+    },
+    {
+      "username": "P_Shep",
+      "uid": 47656,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "paid2",
+      "uid": 3373825,
+      "depth": 2,
+      "strength": 11
+    },
+    {
+      "username": "Pandu Geddon",
+      "uid": 3416506,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Paolo.Demidov",
+      "uid": 1422438,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "paramind22",
+      "uid": 898713,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Paredao",
+      "uid": 385013,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "pasrical",
+      "uid": 1103054,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "paxmao",
+      "uid": 1192397,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "pazor_true",
+      "uid": 263246,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "PeakDK",
+      "uid": 3178351,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Peanutswar",
+      "uid": 2762272,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "phantastisch",
+      "uid": 18312,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "philipma1957",
+      "uid": 64507,
+      "depth": 2,
+      "strength": 18
+    },
+    {
+      "username": "picchio",
+      "uid": 36455,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "piebeyb",
+      "uid": 157691,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Pieter Wuille",
+      "uid": 2786,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Piggy",
+      "uid": 188198,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "piotr_n",
+      "uid": 12089,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Plaguedeath",
+      "uid": 2790123,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Plutosky",
+      "uid": 1237522,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "Pmalek",
+      "uid": 112493,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "pmorici",
+      "uid": 107601,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Poloherb",
+      "uid": 158058,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "polymerbit",
+      "uid": 811213,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "pooya87",
+      "uid": 379147,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Porfirii",
+      "uid": 991374,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "PowerGlove",
+      "uid": 3486361,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "PreciousMetapsICT",
+      "uid": 3426831,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "PrivacyG",
+      "uid": 3322606,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "promise444c5",
+      "uid": 3570710,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "pugman",
+      "uid": 325061,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "püsür",
+      "uid": 161364,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "quasimodo",
+      "uid": 332272,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Queenvio",
+      "uid": 90255,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "qwk",
+      "uid": 24140,
+      "depth": 2,
+      "strength": 13
+    },
+    {
+      "username": "raghavsood",
+      "uid": 1042589,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ragilab",
+      "uid": 3435957,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Raimonn",
+      "uid": 454323,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Raize",
+      "uid": 4171,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ralle14",
+      "uid": 535215,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Ramelius",
+      "uid": 1074603,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ranochigo",
+      "uid": 334898,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Rath_",
+      "uid": 1169179,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "rdponticelli",
+      "uid": 37502,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Real-Duke",
+      "uid": 405482,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "redsn0w",
+      "uid": 211419,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Renato297",
+      "uid": 1926710,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "RHavar",
+      "uid": 389331,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Richy_T",
+      "uid": 67210,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "RickDeckard",
+      "uid": 1681586,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Rikafip",
+      "uid": 2658890,
+      "depth": 2,
+      "strength": 26
+    },
+    {
+      "username": "Riley600",
+      "uid": 220818,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "risho",
+      "uid": 34894,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "rohang",
+      "uid": 2662143,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "roycilik",
+      "uid": 1051955,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "rozak",
+      "uid": 1016105,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "rsincognito",
+      "uid": 2646239,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "rxalts",
+      "uid": 2514450,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "RYR",
+      "uid": 2716064,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Ryu_Ar1",
+      "uid": 3430388,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ryzaadit",
+      "uid": 961598,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "saga-crypto",
+      "uid": 1116811,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "sAj1420",
+      "uid": 1173695,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "SaltySpitoon",
+      "uid": 38894,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "sam00",
+      "uid": 2864880,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "SamReomo",
+      "uid": 885934,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "sandy-is-fine",
+      "uid": 400366,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "sapta",
+      "uid": 347141,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "Sat0shisGhost",
+      "uid": 2551755,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "satoshi",
+      "uid": 3,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "satscraper",
+      "uid": 3442679,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "SatsLife",
+      "uid": 2680846,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "saugwurm",
+      "uid": 176754,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Sayeds56",
+      "uid": 2178170,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "sbogovac",
+      "uid": 217199,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ScamViruS",
+      "uid": 2581425,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "SebastianJu",
+      "uid": 18640,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "seek3r",
+      "uid": 2722098,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "seoincorporation",
+      "uid": 334783,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "SFR10",
+      "uid": 521899,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "SgtSpike",
+      "uid": 10502,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Shadiq",
+      "uid": 3622504,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "shahzadafzal",
+      "uid": 1634314,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "shasan",
+      "uid": 1883627,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "sheenshane",
+      "uid": 1179651,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "shogun47",
+      "uid": 222376,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "ShopemNL",
+      "uid": 186597,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "sidehack",
+      "uid": 130792,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Silent26",
+      "uid": 1091163,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "sirius",
+      "uid": 4,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "SirJohnVonSlotty",
+      "uid": 3519432,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "sky999",
+      "uid": 1541583,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "slackovic",
+      "uid": 1130307,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "slaman29",
+      "uid": 917552,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Slissy",
+      "uid": 3335277,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Slow death",
+      "uid": 783422,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "slumberjack",
+      "uid": 3434753,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Smartvirus",
+      "uid": 2737799,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "smooth",
+      "uid": 13813,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "smoothie",
+      "uid": 25960,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "SolarSilver",
+      "uid": 16248,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Solosanz",
+      "uid": 2789068,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "solosequenosenada",
+      "uid": 80810,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "sompitonov",
+      "uid": 911663,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Soonandwaite",
+      "uid": 2527697,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Souri",
+      "uid": 1573409,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Spack17",
+      "uid": 1080073,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "spider703",
+      "uid": 1105709,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Spidersbox",
+      "uid": 374905,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "spirits",
+      "uid": 900408,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Spokanistan51",
+      "uid": 2403910,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "sportsbet.io",
+      "uid": 832366,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Spotswood",
+      "uid": 30964,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "SPQRCoin",
+      "uid": 551559,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "squall1066",
+      "uid": 55503,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "ssateneth",
+      "uid": 33107,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Stalker22",
+      "uid": 2739454,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "Steamtyme",
+      "uid": 1112531,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Steeley",
+      "uid": 3082389,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Stemby",
+      "uid": 18953,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "stompix",
+      "uid": 164749,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "Stunna",
+      "uid": 81292,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "suchmoon",
+      "uid": 234771,
+      "depth": 2,
+      "strength": 39
+    },
+    {
+      "username": "Suzuki Matt",
+      "uid": 3439672,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "sweeteye",
+      "uid": 2740383,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "swogerino",
+      "uid": 551460,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Swordsoffreedom",
+      "uid": 145841,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "SyGambler",
+      "uid": 405889,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "taikuri13",
+      "uid": 1855828,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "TalkStar",
+      "uid": 2136362,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "taufik123",
+      "uid": 831523,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "texv",
+      "uid": 221431,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ThatRandomDude",
+      "uid": 1076216,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "The Cryptovator",
+      "uid": 1980983,
+      "depth": 2,
+      "strength": 19
+    },
+    {
+      "username": "The Sceptical Chymist",
+      "uid": 487418,
+      "depth": 2,
+      "strength": 29
+    },
+    {
+      "username": "The_Catman",
+      "uid": 93954,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "the_poet",
+      "uid": 216279,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Theb",
+      "uid": 898928,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "TheBeardedBaby",
+      "uid": 1291828,
+      "depth": 2,
+      "strength": 14
+    },
+    {
+      "username": "TheFuzzStone",
+      "uid": 679341,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "TheNewAnon135246",
+      "uid": 153656,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "TheNovemberMan",
+      "uid": 2658430,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "TheUltraElite",
+      "uid": 878630,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "theymos",
+      "uid": 35,
+      "depth": 2,
+      "strength": 53
+    },
+    {
+      "username": "thiago007",
+      "uid": 2879601,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "tiCeR",
+      "uid": 33155,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Ticked",
+      "uid": 129764,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "TMAN",
+      "uid": 98986,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "tmfp",
+      "uid": 351569,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "tokeweed",
+      "uid": 125583,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "tomahawk9",
+      "uid": 849090,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "TookDk",
+      "uid": 109430,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "tothemoonsands",
+      "uid": 504780,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Tramirostronix",
+      "uid": 1134568,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Trofo",
+      "uid": 1099980,
+      "depth": 2,
+      "strength": 13
+    },
+    {
+      "username": "TryNinja",
+      "uid": 557798,
+      "depth": 2,
+      "strength": 12
+    },
+    {
+      "username": "Trêvoid",
+      "uid": 516434,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "turtlecute",
+      "uid": 3459054,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "tvplus006",
+      "uid": 1311641,
+      "depth": 2,
+      "strength": 16
+    },
+    {
+      "username": "tweetious",
+      "uid": 830967,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "TwitchySeal",
+      "uid": 538922,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "tyKiwanuka",
+      "uid": 1025255,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "uelque",
+      "uid": 1078623,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Ultegra134",
+      "uid": 401014,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "UmerIdrees",
+      "uid": 1729238,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "un_rank",
+      "uid": 3471165,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "unick",
+      "uid": 144671,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Upgrade00",
+      "uid": 2423488,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "UserU",
+      "uid": 1452494,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "usque_ad_finem",
+      "uid": 3477513,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "valkir",
+      "uid": 214808,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "vapourminer",
+      "uid": 33156,
+      "depth": 2,
+      "strength": 5
+    },
+    {
+      "username": "VashaUdacha777",
+      "uid": 2129514,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "VB1001",
+      "uid": 1138727,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "Veleor",
+      "uid": 1177936,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "vivekdhyani1",
+      "uid": 3525194,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "vizique",
+      "uid": 120837,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "Vladimir",
+      "uid": 3380,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Vod",
+      "uid": 30747,
+      "depth": 2,
+      "strength": 10
+    },
+    {
+      "username": "vv181",
+      "uid": 327124,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Wakate",
+      "uid": 3343941,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Wake Up",
+      "uid": 3704193,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "wariner",
+      "uid": 11275,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "waterpile",
+      "uid": 301123,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "WEB503",
+      "uid": 3543369,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "webtricks",
+      "uid": 921974,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "Wed",
+      "uid": 107855,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Welsh",
+      "uid": 84521,
+      "depth": 2,
+      "strength": 22
+    },
+    {
+      "username": "wheelz1200",
+      "uid": 279158,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "willi9974",
+      "uid": 216582,
+      "depth": 2,
+      "strength": 9
+    },
+    {
+      "username": "Wind_FURY",
+      "uid": 844914,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "witcher_sense",
+      "uid": 1433865,
+      "depth": 2,
+      "strength": 15
+    },
+    {
+      "username": "wndsnb",
+      "uid": 366233,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Woodie",
+      "uid": 910236,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "wttbs",
+      "uid": 123869,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "x3t9fi",
+      "uid": 569362,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Xal0lex",
+      "uid": 1068464,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "xandry",
+      "uid": 382413,
+      "depth": 2,
+      "strength": 8
+    },
+    {
+      "username": "Xavier59",
+      "uid": 728512,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "xhomerx10",
+      "uid": 120694,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "xLays",
+      "uid": 926962,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "Xprim777",
+      "uid": 383795,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "xtraelv",
+      "uid": 897509,
+      "depth": 2,
+      "strength": 6
+    },
+    {
+      "username": "xxjumperxx",
+      "uid": 943435,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Xylber",
+      "uid": 1136512,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "xzone",
+      "uid": 149135,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "yahoo62278",
+      "uid": 355846,
+      "depth": 2,
+      "strength": 23
+    },
+    {
+      "username": "yakuza699",
+      "uid": 136722,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "Yaremi",
+      "uid": 290159,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "yesiam6",
+      "uid": 211163,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "yhiaali3",
+      "uid": 2168312,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "YodasRedRocket",
+      "uid": 3442614,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "YOSHIE",
+      "uid": 2363935,
+      "depth": 2,
+      "strength": 19
+    },
+    {
+      "username": "yxt",
+      "uid": 23810,
+      "depth": 2,
+      "strength": 2
+    },
+    {
+      "username": "Z-tight",
+      "uid": 3434176,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ZACHM",
+      "uid": 382626,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ZAINmalik75",
+      "uid": 2872248,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "zasad@",
+      "uid": 2654005,
+      "depth": 2,
+      "strength": 7
+    },
+    {
+      "username": "zazarb",
+      "uid": 369212,
+      "depth": 2,
+      "strength": 3
+    },
+    {
+      "username": "zeki555",
+      "uid": 1392550,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "ZipReg",
+      "uid": 1239916,
+      "depth": 2,
+      "strength": 4
+    },
+    {
+      "username": "zoose",
+      "uid": 543831,
+      "depth": 2,
+      "strength": 0
+    },
+    {
+      "username": "zuizui",
+      "uid": 3501819,
+      "depth": 2,
+      "strength": 1
+    },
+    {
+      "username": "ZyTReX",
+      "uid": 330953,
+      "depth": 2,
+      "strength": 1
+    }
+  ]
+}
